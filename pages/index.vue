@@ -16,14 +16,14 @@ useHead({
       </div>
       <div class="img">
         <NuxtImg
-          class="w-full h-full rounded-2xl object-cover rotate-90"
+          class="w-full h-full rounded-2xl object-cover"
           src="/images/profile2.JPG"
           alt="Komutan, Tursunboev"
         />
       </div>
       <div class="img">
         <NuxtImg
-          class="w-full h-full rounded-2xl object-cover rotate-90"
+          class="w-full h-full rounded-2xl object-cover"
           src="/images/profile3.JPG"
           alt="Komutan, Tursunboev"
         />
