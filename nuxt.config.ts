@@ -10,9 +10,6 @@ export default defineNuxtConfig({
   },
   ssr: false,
   modules: ["@nuxt/image"],
-  image: {
-    provider: "ipx",
-  },
   app: {
     pageTransition: { name: "page", mode: "out-in", type: "transition" },
   },
