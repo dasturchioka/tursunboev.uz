@@ -10,21 +10,21 @@ useHead({
       <div class="img">
         <NuxtImg
           class="w-full h-full rounded-2xl object-cover"
-          src="../assets/images/profile1.JPG"
+          src="/images/profile1.JPG"
           alt="Komutan, Tursunboev"
         />
       </div>
       <div class="img">
         <NuxtImg
           class="w-full h-full rounded-2xl object-cover rotate-90"
-          src="../assets/images/profile2.JPG"
+          src="/images/profile2.JPG"
           alt="Komutan, Tursunboev"
         />
       </div>
       <div class="img">
         <NuxtImg
           class="w-full h-full rounded-2xl object-cover rotate-90"
-          src="../assets/images/profile3.JPG"
+          src="/images/profile3.JPG"
           alt="Komutan, Tursunboev"
         />
       </div>
